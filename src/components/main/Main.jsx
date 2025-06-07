@@ -1,6 +1,6 @@
 import { useContext, useEffect } from "react";
 import { assets } from "../../assets/assets";
-import "./main.css";
+import "./Main.css";
 import React from "react";
 import useSpeechRecognition from "../../config/useSpeechRecognition";
 
